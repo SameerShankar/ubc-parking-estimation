@@ -18,7 +18,7 @@ This document lists the sources used in the analysis estimating parking volume a
 **Source:** UBC Transportation Status Report
 
 - **Publisher:** The University of British Columbia
-- **URLs:** [Transportation Status Report](https://planning.ubc.ca/sites/default/files/2026-06/UBC2025-TransportationStatusReport-FINAL.pdf)
+- **URL:** [Transportation Status Report](https://planning.ubc.ca/sites/default/files/2026-06/UBC2025-TransportationStatusReport-FINAL.pdf)
 - **Data used:** Transportation figures.
 - **Purpose:** Use transportation figures to estimate parking volume and revenue.
 
@@ -27,6 +27,6 @@ This document lists the sources used in the analysis estimating parking volume a
 **Source:** UBC Community Services Report
 
 - **Publisher:** The University of British Columbia
-- **URLs:** [Community Services Report](https://bog3.sites.olt.ubc.ca/files/2012/09/4.3_2012.09_University-Community-Services-Report.pdf)
+- **URL:** [Community Services Report](https://bog3.sites.olt.ubc.ca/files/2012/09/4.3_2012.09_University-Community-Services-Report.pdf)
 - **Data used:** Revenue figures.
 - **Purpose:** Compare results from the analysis to UBC's reported figure.
