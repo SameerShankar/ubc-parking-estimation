@@ -1,6 +1,6 @@
-# Estimating UBC Parking Activity and Revenue
+# Estimating UBC Parking Volume and Revenue
 
-An independent analysis estimating parking activity and potential parking revenue at the University of British Columbia's Vancouver campus for 2025.
+An independent analysis estimating parking volume and parking revenue at The University of British Columbia (UBC) Vancouver campus for 2025.
 
 ## Overview
 
@@ -15,7 +15,7 @@ The analysis is an example of **Fermi estimation**: breaking a question into sma
 | Metric | Baseline estimate |
 |---|---:|
 | Annual parking instances | 3,477,240 |
-| Annual parking activity sensitivity range | 3,259,912–3,694,568 |
+| Annual parking volume sensitivity range | 3,259,912–3,694,568 |
 | Assumed revenue per parking instance | $5 CAD |
 | Estimated annual parking revenue | $17,386,200 CAD |
 | Estimated revenue sensitivity range | $16,299,562–$18,472,838 CAD |
